@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Front-end<br>Estou a procura do meu primeiro emprego como programador.
+Sou formado em Analise e Desenvolvimento de Sistemas.<br>Sempre em busca de mais conhecimento<br>Estou a procura do meu primeiro emprego como programador.
 
 
 ## 🌐 Socials:
